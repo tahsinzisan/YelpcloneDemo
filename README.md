@@ -1,6 +1,5 @@
 # Simple Yelp
 
-This project is a basic clone of the restaurant review app, Yelp. This app has just one screen, but the data is fetched from the Yelp API. We’ll learn how to do networking with Android and the concept of asynchronous programming. 
+This project is a clone of the restaurant review app, Yelp. I made the app just for learning purpose. This app has just one screen, but the data is fetched from the Yelp API. 
 
-<img src='https://i.imgur.com/vMSSsZM.png' title='App screenshot' width='' alt='App screenshot' />
 
